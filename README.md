@@ -1,10 +1,17 @@
-# Excel Projects & Dashboards
+# 📊 Excel Projects & Dashboards
 
-Welcome to my Excel portfolio! This repository showcases my projects using Microsoft Excel for data analysis, interactive dashboard creation, KPI tracking, and business insights.
+A curated collection of my Excel projects showcasing data analysis, interactive dashboards, KPI tracking, data visualization, and business insights.
 
-# Projects
-# 1. Sales Performance Dashboard
+## Tech Stack
 
-An interactive Excel dashboard analyzing revenue trends, regional performance, product categories, sales channels, and top-selling products using KPIs, charts, and slicers.
+**Tool:** Microsoft Excel
 
-Tools: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers
+**Techniques:** Data Cleaning, Pivot Tables, Pivot Charts, Slicers, KPI Tracking, Dashboard Design
+
+## Featured Projects
+
+### 1. Sales Performance Dashboard
+
+An interactive dashboard analyzing revenue trends, regional performance, product categories, sales channels, and top-performing products using KPIs, charts, and slicers.
+
+
